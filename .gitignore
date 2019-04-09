@@ -1,0 +1,12 @@
+*.logs
+logs/
+npm-debug.log
+
+node_modules/
+build/
+
+.vscode
+!.vscode/tasks.js
+.npm
+.eslintcache
+.DS_Store
